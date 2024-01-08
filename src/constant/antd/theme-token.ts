@@ -1,0 +1,16 @@
+export default {
+    borderRadius: 4,
+    colorBorder: "#E2E8F0",
+    colorInfoBgHover: "#E2E8F0",
+    colorInfoBorder: "#E2E8F0",
+    controlOutline: "none",
+    colorPrimaryBg: "#FFF7ED",
+    paddingXXS: 0,
+    borderRadiusSM: 0,
+    borderRadiusXS: 0,
+    colorPrimary: "#FB7529",
+    colorLink: "#FB7529",
+    colorPrimaryActive: "#FB7529",
+    colorBgSpotlight: "#FFF",
+    // controlHeight: 40,
+};

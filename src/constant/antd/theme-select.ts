@@ -1,0 +1,18 @@
+export default {
+    multipleItemBg: "transparent",
+    multipleItemBorderColor: "transparent",
+    multipleItemBorderColorDisabled: "transparent",
+    multipleItemColorDisabled: "transparent",
+    multipleItemHeight: 32,
+    multipleItemHeightSM: 24,
+    // multipleItemHeightLG: 24,
+    controlHeight: 40,
+    controlHeightSM: 32,
+    fontSizeSM: 14,
+    fontSizeIcon: 16,
+    // lineHeightSM: "24px",
+    // lineHeight: "32px",
+    zIndexPopup: 50,
+    borderRadiusSM: 4,
+    borderRadius: 4,
+};
