@@ -1,0 +1,10 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`Button > renders correctly 1`] = `
+<button
+  class="inline-flex items-center justify-center rounded font-medium ring-offset-background transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:bg-slate-100 disabled:text-slate-300 disabled:border-[1px] disabled:border-slate-200 bg-theme text-primary-foreground hover:bg-orange-400 h-10 px-4 py-2 text-sm"
+  type="button"
+>
+  Follow
+</button>
+`;

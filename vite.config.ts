@@ -30,5 +30,12 @@ export default defineConfig({
     react(),
     dts({ rollupTypes: true }),
   ],
-  test: {},
+  test: {
+    environment: 'jsdom',
+    setupFiles: './src/test/setup.ts',
+    coverage: {
+      all: false,
+      enabled: false,
+    },
+  },
 })
